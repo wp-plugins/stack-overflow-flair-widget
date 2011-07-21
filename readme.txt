@@ -1,14 +1,17 @@
-=== Stack Overflow Flair Widget ===
+Stack Overflow Flair Widget
+===========================
+
 Contributors: twuni
 Donate link: https://twuni.org/blog
 Tags: stack, overflow, stackoverflow, flair, widget, sidebar
 Requires at least: 2.0.2
-Tested up to: 2.1
+Tested up to: 3.2.1
 Stable tag: 1.0.0
 
 This sidebar widget displays your Stack Overflow flair. Configurable title, theme, and user ID.
 
-== Installation ==
+Installation
+============
 
 1. Upload the `stackoverflow-flair-widget` directory into your `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
